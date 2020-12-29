@@ -1,3 +1,3 @@
 # Course-Registration-Project
 
-Project for CS-UA 102 (Data Structures) at NYU
+Project for CSCI-UA 102 (Data Structures) at NYU
